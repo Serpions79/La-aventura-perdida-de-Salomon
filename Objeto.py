@@ -86,6 +86,7 @@ elif SIUUU==2:
         print("Has entrado a la casa y mira habia un monton de comida toda esta comida nos bastara para 1 semana")
     elif B==2:
         print("Ok no iremos a la casa abandonada")
+#hola gato
 
 
 
